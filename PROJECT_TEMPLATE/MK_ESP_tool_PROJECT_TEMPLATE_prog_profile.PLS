@@ -1,0 +1,15 @@
+D:\0_Projekty\0_Embeded_Project_Templates\ESP8266_NONOS_SDK\bin\boot_v1.7.bin,0x0,1
+D:\0_Projekty\0_Embeded_Project_Templates\ESP8266_NONOS_SDK\bin\upgrade\user1.4096.new.6.bin,0x01000,1
+D:\0_Projekty\0_Embeded_Project_Templates\ESP8266_NONOS_SDK\bin\esp_init_data_default_v08.bin,0x3FC000,1
+D:\0_Projekty\0_Embeded_Project_Templates\ESP8266_NONOS_SDK\bin\blank.bin,0x3FE000,1
+D:\0_Projekty\0_Embeded_Project_Templates\ESP8266_NONOS_SDK\bin\blank.bin,0x3FB000,1
+,,0
+,,0
+,,0
+,,0
+,,0
+,,0
+,,0
+,,0
+,,0
+,,0
